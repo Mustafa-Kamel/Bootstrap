@@ -1,0 +1,20 @@
+Grid System:
+Screens: lg - md - sm - xs
+class="col-md-6"
+
+Visibilty:
+class="hidden-md"
+class="visible-lg-[block/inline/inline-block]"
+
+Float Clear Fix:
+<div class="clearfix"></div>
+
+Offset:
+<div class="col-lg-offset-3"></div>
+
+Ordering:
+class="col-sm-push-3"
+class="col-sm-pull-3"
+
+class="lead"
+class="img-responsive center-block"
